@@ -1,0 +1,15 @@
+//
+//  PDAppDelegate.h
+//  PodDemo
+//
+//  Created by antihumanPerson on 08/07/2018.
+//  Copyright (c) 2018 antihumanPerson. All rights reserved.
+//
+
+@import UIKit;
+
+@interface PDAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
